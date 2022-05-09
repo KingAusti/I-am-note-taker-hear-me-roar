@@ -1,0 +1,26 @@
+{
+  "name": "i-am-note-taker-hear-me-roar",
+  "version": "1.0.0",
+  "description": "This is a note taker built in node.js and express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KingAusti/I-am-note-taker-hear-me-roar.git"
+  },
+  "author": "KingAusti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KingAusti/I-am-note-taker-hear-me-roar/issues"
+  },
+  "homepage": "https://github.com/KingAusti/I-am-note-taker-hear-me-roar#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
